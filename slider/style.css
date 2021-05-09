@@ -1,0 +1,30 @@
+body {
+    background: #5c5c5c;
+}
+
+.slider {
+    margin: 0 auto;
+    overflow: hidden;
+}
+.slider .slider-line {
+    padding: 30px 0;
+    max-height: 550px;
+    display: flex;
+    position: relative;
+    left: 0;
+}
+.slider .slider-line__item {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.slider .slider-button {
+    text-align: center;
+}
+.slider .slider-button button {
+    background-color: #97455F;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    height: 30px;
+    width: 80px;
+}
