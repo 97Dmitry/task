@@ -1185,7 +1185,7 @@ input:invalid {
   }
 
   .qr-code__text {
-    width: 100%;
+    width: 90%;
     margin-top: 85%;
     margin-left: 20px;
   }
