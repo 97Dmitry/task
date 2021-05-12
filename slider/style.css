@@ -38,6 +38,8 @@
     background: black;
 
     margin-right: 10px;
+
+    cursor: pointer;
 }
 
 .slider .slider-dot:last-child {
